@@ -1,0 +1,15 @@
+
+--- Car Details ---
+Registration Number: 009
+Color: white
+Number of Seats: 8
+
+--- Car Details ---
+Registration Number: 00001
+Color: GREY
+Number of Seats: 5
+
+--- Bike Details ---
+Registration Number: 11110
+Color: BLACK
+Engine Capacity: 250 cc
